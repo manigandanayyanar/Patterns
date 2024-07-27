@@ -1,0 +1,5 @@
+﻿
+To construct complext object.
+
+The Builder Design Pattern is a creational pattern that provides a way to construct a complex object step by step. 
+It allows you to produce different types and representations of an object using the same construction code
