@@ -1,4 +1,4 @@
-# Patterns
+# Desing Patterns
 
 A simple repo to understand basics of Design Patterns.
 
