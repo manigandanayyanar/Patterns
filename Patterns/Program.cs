@@ -15,7 +15,8 @@ namespace Patterns
             //Singleton.GetSingletonInstance();
             //Singleton.ThreadSafe();
             //FACADE.PlaceOrderFacade();
-            FACADE.BankingFacade();
+            //FACADE.BankingFacade();
+            Observer.ExecuteObserver();
         }
 
         #region FactoryPattern

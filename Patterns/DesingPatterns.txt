@@ -1,5 +1,20 @@
-﻿Design patterns are reusable solutions to common problems in software design. They can be classified into three main categories: Creational, Structural, and Behavioral patterns.
-Each category addresses different aspects of object-oriented software design.
+﻿
+Design patterns are reusable solutions to common problems in software design. 
+
+They can be classified into three main categories: 
+    1. Creational 
+    2. Structural
+    3. Behavioral
+
+ 1. Creational
+    It provide object creation mechanisms that increase flexibility and reuse of existing code.
+
+ 2. Structural
+    It explain how to assemble objects and classes into larger structures, while keeping these structures flexible and efficient.
+
+ 3. Behavioral
+    It take care of effective communication and the assignment of responsibilities between objects.
+
 
 ### Creational Patterns
 Creational patterns deal with object creation mechanisms, trying to create objects in a manner suitable for the situation. 
