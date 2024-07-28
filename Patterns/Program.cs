@@ -10,8 +10,10 @@ namespace Patterns
     {
         static void Main(string[] args)
         {
-            FactoryPattern();
-            BuilderPatter();
+            //FactoryPattern();
+            //BuilderPatter();
+            //Singleton.GetSingletonInstance();
+            Singleton.ThreadSafe();
         }
 
         #region FactoryPattern

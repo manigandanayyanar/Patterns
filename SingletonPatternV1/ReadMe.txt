@@ -1,0 +1,1 @@
+﻿https://refactoring.guru/design-patterns/singleton/csharp/example#example-1

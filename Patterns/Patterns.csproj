@@ -10,6 +10,7 @@
   <ItemGroup>
     <ProjectReference Include="..\BuilderPattern\BuilderPattern.csproj" />
     <ProjectReference Include="..\FactoryPattern\FactoryPattern.csproj" />
+    <ProjectReference Include="..\SingletonPatternV1\SingletonPatternV1.csproj" />
   </ItemGroup>
 
 </Project>
